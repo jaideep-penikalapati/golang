@@ -1,3 +1,3 @@
 # golang
 
-Complex Data-Type implementations in Go
+Custom data-type implementations in Go
